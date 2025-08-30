@@ -1,8 +1,0 @@
-# Control de Tienda
-google.com, pub-3057099433625800, DIRECT, f08c47fec0942fa0
-
-# Vortex Tower
-google.com, pub-3057099433625800, DIRECT, f08c47fec0942fa0
-
-# Próximas apps
-# Añadir aquí nuevas líneas siguiendo el mismo formato
